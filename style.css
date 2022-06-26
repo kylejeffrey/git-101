@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Helvetica;
-    background-color: #D23333;
+    background-color: yellow;
 }
 
 #logo {
@@ -11,7 +11,7 @@ body {
 
 h1 {
     font-weight: 100;
-    color: white;
+    color: black;
 }
 
 #container {
